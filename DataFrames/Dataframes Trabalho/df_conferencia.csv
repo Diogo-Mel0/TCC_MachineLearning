@@ -1,0 +1,335 @@
+,ID,data,clube_mandante_x,clube_visitante_x
+0,4989,9/5/2015,Fluminense,Joinville
+1,4990,10/5/2015,Gremio,Ponte Preta
+2,4994,10/5/2015,Sport,Figueirense
+3,4995,10/5/2015,Avai,Santos
+4,5008,23/5/2015,Vasco,Internacional
+5,5010,24/5/2015,Palmeiras,Goias
+6,5017,30/5/2015,Ponte Preta,Chapecoense
+7,5024,31/5/2015,Internacional,Sao Paulo
+8,5025,31/5/2015,Flamengo,Fluminense
+9,5026,31/5/2015,Figueirense,Cruzeiro
+10,5028,3/6/2015,Vasco,Ponte Preta
+11,5043,7/6/2015,Internacional,Coritiba
+12,5048,13/6/2015,Coritiba,Flamengo
+13,5055,14/6/2015,Palmeiras,Fluminense
+14,5059,20/6/2015,Flamengo,Atletico-MG
+15,5060,20/6/2015,Santos,Corinthians
+16,5063,21/6/2015,Joinville,Goias
+17,5064,21/6/2015,Athletico-PR,Coritiba
+18,5076,28/6/2015,Internacional,Santos
+19,5085,2/7/2015,Figueirense,Goias
+20,5088,4/7/2015,Chapecoense,Vasco
+21,5090,5/7/2015,Avai,Sport
+22,5093,5/7/2015,Santos,Gremio
+23,5122,19/7/2015,Sport,Sao Paulo
+24,5139,1/8/2015,Fluminense,Gremio
+25,5151,9/8/2015,Sao Paulo,Corinthians
+26,5158,12/8/2015,Flamengo,Athletico-PR
+27,5159,12/8/2015,Santos,Vasco
+28,5162,12/8/2015,Internacional,Fluminense
+29,5168,15/8/2015,Athletico-PR,Santos
+30,5172,16/8/2015,Fluminense,Figueirense
+31,5177,22/8/2015,Goias,Vasco
+32,5195,30/8/2015,Cruzeiro,Santos
+33,5201,2/9/2015,Atletico-MG,Athletico-PR
+34,5208,5/9/2015,Vasco,Atletico-MG
+35,5209,5/9/2015,Athletico-PR,Joinville
+36,5212,6/9/2015,Gremio,Goias
+37,5215,6/9/2015,Fluminense,Flamengo
+38,5217,9/9/2015,Ponte Preta,Vasco
+39,5219,9/9/2015,Internacional,Palmeiras
+40,5228,12/9/2015,Palmeiras,Figueirense
+41,5231,13/9/2015,Cruzeiro,Atletico-MG
+42,5244,16/9/2015,Cruzeiro,Vasco
+43,5255,20/9/2015,Chapecoense,Cruzeiro
+44,5275,4/10/2015,Ponte Preta,Corinthians
+45,5288,17/10/2015,Joinville,Figueirense
+46,5293,18/10/2015,Sao Paulo,Vasco
+47,5296,18/10/2015,Sport,Atletico-MG
+48,5301,25/10/2015,Corinthians,Flamengo
+49,5313,1/11/2015,Gremio,Flamengo
+50,5315,1/11/2015,Vasco,Fluminense
+51,5333,19/11/2015,Chapecoense,Internacional
+52,5335,19/11/2015,Santos,Flamengo
+53,5336,19/11/2015,Vasco,Corinthians
+54,5338,22/11/2015,Joinville,Vasco
+55,5349,28/11/2015,Avai,Ponte Preta
+56,5367,14/5/2016,Palmeiras,Athletico-PR
+57,5370,14/5/2016,Coritiba,Cruzeiro
+58,5376,15/5/2016,Internacional,Chapecoense
+59,5382,22/5/2016,Vitoria,Corinthians
+60,5390,25/5/2016,America-MG,Vitoria
+61,5400,29/5/2016,Ponte Preta,Flamengo
+62,5409,1/6/2016,Santa Cruz,Sport
+63,5431,12/6/2016,Coritiba,Sport
+64,5433,12/6/2016,Atletico-MG,Cruzeiro
+65,5446,16/6/2016,Fluminense,Corinthians
+66,5447,18/6/2016,Palmeiras,Santa Cruz
+67,5453,19/6/2016,Flamengo,Sao Paulo
+68,5464,23/6/2016,Gremio,Vitoria
+69,5466,23/6/2016,Coritiba,Internacional
+70,5474,26/6/2016,Santos,Sao Paulo
+71,5478,29/6/2016,Vitoria,Sport
+72,5489,3/7/2016,Cruzeiro,Vitoria
+73,5497,9/7/2016,Chapecoense,Corinthians
+74,5520,24/7/2016,Ponte Preta,Internacional
+75,5521,24/7/2016,Gremio,Sao Paulo
+76,5527,30/7/2016,Figueirense,Vitoria
+77,5575,21/8/2016,Figueirense,Cruzeiro
+78,5587,7/9/2016,Santa Cruz,Chapecoense
+79,5596,8/9/2016,Internacional,Santos
+80,5597,10/9/2016,Vitoria,Flamengo
+81,5608,14/9/2016,Figueirense,America-MG
+82,5611,14/9/2016,Coritiba,Corinthians
+83,5612,14/9/2016,Palmeiras,Flamengo
+84,5617,17/9/2016,Corinthians,Palmeiras
+85,5618,18/9/2016,Flamengo,Figueirense
+86,5619,18/9/2016,Cruzeiro,Atletico-MG
+87,5628,24/9/2016,Sport,Santos
+88,5649,5/10/2016,Corinthians,Atletico-MG
+89,5654,9/10/2016,Flamengo,Santa Cruz
+90,5657,12/10/2016,Chapecoense,Sport
+91,5675,16/10/2016,Sport,Vitoria
+92,5679,23/10/2016,Flamengo,Corinthians
+93,5680,23/10/2016,Vitoria,Cruzeiro
+94,5684,23/10/2016,Atletico-MG,Figueirense
+95,5693,29/10/2016,Internacional,Santa Cruz
+96,5705,6/11/2016,Chapecoense,Figueirense
+97,5722,20/11/2016,Ponte Preta,Fluminense
+98,5725,20/11/2016,Santa Cruz,Atletico-MG
+99,5739,11/12/2016,Gremio,Botafogo-RJ
+100,5740,11/12/2016,Sao Paulo,Santa Cruz
+101,5743,11/12/2016,Athletico-PR,Flamengo
+102,5750,14/5/2017,Bahia,Athletico-PR
+103,5759,21/5/2017,Vasco,Bahia
+104,5760,21/5/2017,Athletico-PR,Gremio
+105,5773,28/5/2017,Sport,Gremio
+106,5775,29/5/2017,Chapecoense,Avai
+107,5804,11/6/2017,Athletico-PR,Santos
+108,5806,14/6/2017,Atletico-MG,Athletico-PR
+109,5832,22/6/2017,Corinthians,Bahia
+110,5843,25/6/2017,Bahia,Flamengo
+111,5847,1/7/2017,Atletico-GO,Santos
+112,5855,3/7/2017,Fluminense,Chapecoense
+113,5861,9/7/2017,Gremio,Avai
+114,5878,16/7/2017,Vasco,Santos
+115,5895,20/7/2017,Athletico-PR,Botafogo-RJ
+116,5912,30/7/2017,Gremio,Santos
+117,5920,2/8/2017,Santos,Flamengo
+118,5938,13/8/2017,Sao Paulo,Cruzeiro
+119,5940,13/8/2017,Atletico-MG,Flamengo
+120,5955,21/8/2017,Fluminense,Atletico-MG
+121,5978,17/9/2017,Avai,Atletico-MG
+122,6006,7/10/2017,Cruzeiro,Ponte Preta
+123,6010,15/10/2017,Atletico-GO,Palmeiras
+124,6020,11/10/2017,Avai,Vasco
+125,6022,12/10/2017,Vitoria,Sport
+126,6024,12/10/2017,Ponte Preta,Santos
+127,6028,18/10/2017,Atletico-MG,Chapecoense
+128,6072,8/11/2017,Vitoria,Palmeiras
+129,6081,12/11/2017,Gremio,Vitoria
+130,6083,12/11/2017,Cruzeiro,Fluminense
+131,6104,20/11/2017,Fluminense,Ponte Preta
+132,6114,26/11/2017,Bahia,Chapecoense
+133,6120,3/12/2017,Vitoria,Flamengo
+134,6144,22/4/2018,Gremio,Athletico-PR
+135,6154,30/4/2018,America-MG,Vitoria
+136,6155,27/9/2018,Santos,Vasco
+137,6164,6/5/2018,Sport,Bahia
+138,6176,19/5/2018,Atletico-MG,Cruzeiro
+139,6180,20/5/2018,Sao Paulo,Santos
+140,6187,26/5/2018,Palmeiras,Sport
+141,6191,27/5/2018,Bahia,Vasco
+142,6204,31/5/2018,Corinthians,America-MG
+143,6207,2/6/2018,Atletico-MG,Chapecoense
+144,6231,10/6/2018,Bahia,Botafogo-RJ
+145,6236,12/6/2018,Sao Paulo,Vitoria
+146,6250,18/7/2018,Flamengo,Sao Paulo
+147,6255,19/7/2018,Athletico-PR,Internacional
+148,6258,22/7/2018,Vasco,Gremio
+149,6261,22/7/2018,Bahia,Vitoria
+150,6299,22/8/2018,Palmeiras,Botafogo-RJ
+151,6316,18/8/2018,Santos,Sport
+152,6325,20/8/2018,Vasco,Ceara
+153,6327,25/8/2018,Corinthians,Parana
+154,6375,17/9/2018,Chapecoense,Internacional
+155,6384,24/9/2018,Chapecoense,Fluminense
+156,6390,30/9/2018,Atletico-MG,Sport
+157,6402,6/10/2018,Gremio,Bahia
+158,6411,14/10/2018,Internacional,Sao Paulo
+159,6438,3/11/2018,Palmeiras,Santos
+160,6446,10/11/2018,America-MG,Parana
+161,6447,10/11/2018,Corinthians,Sao Paulo
+162,6458,14/11/2018,Parana,Atletico-MG
+163,6460,14/11/2018,Palmeiras,Fluminense
+164,6461,14/11/2018,Cruzeiro,Corinthians
+165,6467,17/11/2018,Vitoria,Athletico-PR
+166,6468,17/11/2018,Atletico-MG,Bahia
+167,6471,18/11/2018,Sport,Flamengo
+168,6472,18/11/2018,Botafogo-RJ,Internacional
+169,6491,25/11/2018,Internacional,Fluminense
+170,6492,25/11/2018,America-MG,Bahia
+171,6496,1/12/2018,Flamengo,Athletico-PR
+172,6498,2/12/2018,Ceara,Vasco
+173,6509,27/4/2019,Flamengo,Cruzeiro
+174,6533,5/5/2019,Cruzeiro,Goias
+175,6540,12/5/2019,Santos,Vasco
+176,6541,12/5/2019,Atletico-MG,Palmeiras
+177,6562,26/5/2019,Bahia,Fluminense
+178,6587,12/6/2019,Fortaleza,Cruzeiro
+179,6592,13/6/2019,Chapecoense,Fluminense
+180,6595,13/6/2019,Goias,Athletico-PR
+181,6606,20/7/2019,Vasco,Fluminense
+182,6607,20/7/2019,Bahia,Cruzeiro
+183,6609,20/7/2019,CSA,Athletico-PR
+184,6611,21/7/2019,Botafogo-RJ,Santos
+185,6613,21/7/2019,Corinthians,Flamengo
+186,6617,27/7/2019,Cruzeiro,Athletico-PR
+187,6626,3/8/2019,Ceara,Fortaleza
+188,6635,21/8/2019,Athletico-PR,Sao Paulo
+189,6639,10/8/2019,Atletico-MG,Fluminense
+190,6641,11/8/2019,Palmeiras,Bahia
+191,6642,11/8/2019,Avai,Cruzeiro
+192,6644,11/8/2019,Goias,Vasco
+193,6647,17/8/2019,Fortaleza,Internacional
+194,6649,17/8/2019,Athletico-PR,Atletico-MG
+195,6657,24/8/2019,Gremio,Athletico-PR
+196,6666,31/8/2019,Sao Paulo,Gremio
+197,6672,1/9/2019,Fortaleza,Goias
+198,6681,7/9/2019,Goias,Palmeiras
+199,6684,8/9/2019,Botafogo-RJ,Atletico-MG
+200,6685,8/9/2019,CSA,Chapecoense
+201,6690,15/9/2019,Athletico-PR,Avai
+202,6703,22/9/2019,Vasco,Athletico-PR
+203,6711,26/9/2019,Fluminense,Santos
+204,6718,29/9/2019,Santos,CSA
+205,6721,29/9/2019,Athletico-PR,Chapecoense
+206,6743,10/10/2019,Corinthians,Athletico-PR
+207,6750,13/10/2019,Athletico-PR,Flamengo
+208,6752,13/10/2019,Vasco,Fortaleza
+209,6756,16/10/2019,CSA,Atletico-MG
+210,6761,16/10/2019,Goias,Corinthians
+211,6765,17/10/2019,Fluminense,Athletico-PR
+212,6766,19/10/2019,Fortaleza,Gremio
+213,6775,21/10/2019,Botafogo-RJ,CSA
+214,6780,26/10/2019,Cruzeiro,Fortaleza
+215,6781,27/10/2019,Athletico-PR,Goias
+216,6796,2/11/2019,Fortaleza,Atletico-MG
+217,6801,3/11/2019,Athletico-PR,CSA
+218,6804,3/11/2019,Cruzeiro,Bahia
+219,6808,6/11/2019,Avai,Santos
+220,6809,6/11/2019,Athletico-PR,Cruzeiro
+221,6814,7/11/2019,Botafogo-RJ,Flamengo
+222,6820,10/11/2019,Sao Paulo,Athletico-PR
+223,6824,10/11/2019,CSA,Vasco
+224,6825,11/11/2019,Botafogo-RJ,Avai
+225,6829,24/11/2019,Atletico-MG,Athletico-PR
+226,6838,17/11/2019,Gremio,Flamengo
+227,6841,17/11/2019,Athletico-PR,Botafogo-RJ
+228,6849,27/11/2019,Athletico-PR,Gremio
+229,6853,28/11/2019,Fortaleza,Santos
+230,6857,30/11/2019,Ceara,Athletico-PR
+231,6861,1/12/2019,CSA,Bahia
+232,6866,4/12/2019,Athletico-PR,Santos
+233,6867,4/12/2019,Ceara,Corinthians
+234,6869,4/12/2019,Chapecoense,CSA
+235,6870,4/12/2019,Fluminense,Fortaleza
+236,6872,5/12/2019,Gremio,Cruzeiro
+237,6874,5/12/2019,Bahia,Vasco
+238,6879,8/12/2019,CSA,Sao Paulo
+239,6884,8/12/2019,Avai,Athletico-PR
+240,6907,15/8/2020,Coritiba,Flamengo
+241,6913,16/8/2020,Atletico-GO,Sport
+242,6931,23/8/2020,Palmeiras,Santos
+243,6957,2/9/2020,Fluminense,Atletico-GO
+244,6968,5/9/2020,Ceara,Santos
+245,6973,6/9/2020,Atletico-GO,Gremio
+246,6978,9/9/2020,Goias,Coritiba
+247,6983,10/9/2020,Corinthians,Palmeiras
+248,6984,10/9/2020,Bahia,Gremio
+249,6986,12/9/2020,Athletico-PR,Coritiba
+250,6994,13/9/2020,Palmeiras,Sport
+251,7006,3/10/2020,Gremio,Internacional
+252,7013,4/10/2020,Goias,Santos
+253,7015,4/10/2020,Atletico-MG,Vasco
+254,7018,7/10/2020,Bahia,Vasco
+255,7023,7/10/2020,Fortaleza,Atletico-MG
+256,7031,11/10/2020,Santos,Gremio
+257,7032,11/10/2020,Sport,Botafogo-RJ
+258,7043,16/10/2020,Goias,Bahia
+259,7066,31/10/2020,Botafogo-RJ,Ceara
+260,7077,7/11/2020,Sao Paulo,Goias
+261,7104,22/11/2020,Corinthians,Gremio
+262,7112,28/11/2020,Atletico-GO,Internacional
+263,7119,5/12/2020,Fluminense,Athletico-PR
+264,7136,16/12/2020,Sao Paulo,Atletico-MG
+265,7138,19/12/2020,Sport,Gremio
+266,7200,24/1/2021,Ceara,Palmeiras
+267,7201,24/1/2021,Atletico-GO,Fortaleza
+268,7216,3/2/2021,Gremio,Santos
+269,7221,4/2/2021,Fortaleza,Coritiba
+270,7243,14/2/2021,Gremio,Sao Paulo
+271,7247,20/2/2021,Fortaleza,Bahia
+272,7261,25/2/2021,Ceara,Botafogo-RJ
+273,7285,23/11/2021,Gremio,Flamengo
+274,7320,24/6/2021,America-MG,Juventude
+275,7331,27/6/2021,Santos,Atletico-MG
+276,7337,30/6/2021,Fortaleza,Chapecoense
+277,7343,1/7/2021,Bragantino,Ceara
+278,7352,4/7/2021,Ceara,Juventude
+279,7373,11/7/2021,Cuiaba,Ceara
+280,7397,31/7/2021,Internacional,Cuiaba
+281,7400,1/8/2021,Atletico-MG,Athletico-PR
+282,7408,7/8/2021,Palmeiras,Fortaleza
+283,7414,8/8/2021,Flamengo,Internacional
+284,7417,14/8/2021,Atletico-MG,Palmeiras
+285,7436,28/8/2021,Sport,Chapecoense
+286,7448,5/9/2021,Athletico-PR,Sport
+287,7457,11/9/2021,Juventude,Cuiaba
+288,7476,25/9/2021,Ceara,Chapecoense
+289,7495,27/10/2021,Bahia,Ceara
+290,7496,5/10/2021,Corinthians,Bahia
+291,7514,10/10/2021,Santos,Gremio
+292,7516,12/10/2021,Bragantino,Atletico-GO
+293,7575,11/11/2021,Flamengo,Bahia
+294,7584,8/11/2021,Chapecoense,Flamengo
+295,7592,14/11/2021,Fluminense,Palmeiras
+296,7610,29/11/2021,Atletico-GO,Bahia
+297,7614,3/12/2021,Athletico-PR,Cuiaba
+298,7623,30/11/2021,Cuiaba,Palmeiras
+299,7648,9/4/2022,Palmeiras,Ceara
+300,7673,1/5/2022,Coritiba,Fluminense
+301,7682,24/4/2022,Juventude,Cuiaba
+302,7686,7/5/2022,Atletico-MG,America-MG
+303,7690,8/5/2022,Atletico-GO,Goias
+304,7701,21/5/2022,Cuiaba,Internacional
+305,7712,15/5/2022,Coritiba,America-MG
+306,7713,15/5/2022,Botafogo-RJ,Fortaleza
+307,7717,28/5/2022,Sao Paulo,Ceara
+308,7739,8/6/2022,Atletico-GO,Avai
+309,7755,13/6/2022,Botafogo-RJ,Avai
+310,7769,19/6/2022,Coritiba,Athletico-PR
+311,7771,19/6/2022,Internacional,Botafogo-RJ
+312,7783,26/6/2022,Goias,Cuiaba
+313,7804,10/7/2022,Cuiaba,Botafogo-RJ
+314,7835,25/7/2022,Coritiba,Cuiaba
+315,7856,13/8/2022,Goias,Avai
+316,7858,13/8/2022,Cuiaba,Juventude
+317,7859,13/8/2022,Botafogo-RJ,Atletico-GO
+318,7890,4/9/2022,Flamengo,Ceara
+319,7894,4/9/2022,Cuiaba,Sao Paulo
+320,7901,11/9/2022,Avai,Athletico-PR
+321,7909,18/9/2022,Flamengo,Fluminense
+322,7914,18/9/2022,Athletico-PR,Cuiaba
+323,7926,1/10/2022,Atletico-MG,Fluminense
+324,7934,3/10/2022,Botafogo-RJ,Palmeiras
+325,7938,5/10/2022,Ceara,Goias
+326,7957,15/10/2022,America-MG,Fortaleza
+327,7958,16/10/2022,Ceara,Cuiaba
+328,7968,22/10/2022,Santos,Corinthians
+329,7986,31/10/2022,Ceara,Fluminense
+330,7997,5/11/2022,Fluminense,Sao Paulo
+331,8002,6/11/2022,Fortaleza,Atletico-GO
+332,8008,9/11/2022,Fluminense,Goias
+333,8021,13/11/2022,Cuiaba,Coritiba

@@ -1,0 +1,26 @@
+ID;campeonato;data;clube_mandante;clube_visitante;faltas_mandante;faltas_visitante
+5955;2017;21/8/2017;Fluminense;Atletico-MG;15;11
+6517;2019;1/5/2019;CSA;Palmeiras;10;11
+6541;2019;12/5/2019;Atletico-MG;Palmeiras;18;19
+6595;2019;13/6/2019;Goias;Athletico-PR;13;8
+6609;2019;20/7/2019;CSA;Athletico-PR;12;28
+6617;2019;27/7/2019;Cruzeiro;Athletico-PR;11;11
+6635;2019;21/8/2019;Athletico-PR;Sao Paulo;21;12
+6649;2019;17/8/2019;Athletico-PR;Atletico-MG;15;15
+6657;2019;24/8/2019;Gremio;Athletico-PR;14;14
+6690;2019;15/9/2019;Athletico-PR;Avai;12;12
+6703;2019;22/9/2019;Vasco;Athletico-PR;17;13
+6721;2019;29/9/2019;Athletico-PR;Chapecoense;14;13
+6743;2019;10/10/2019;Corinthians;Athletico-PR;13;21
+6750;2019;13/10/2019;Athletico-PR;Flamengo;13;23
+6765;2019;17/10/2019;Fluminense;Athletico-PR;18;13
+6780;2019;26/10/2019;Cruzeiro;Fortaleza;13;9
+6781;2019;27/10/2019;Athletico-PR;Goias;18;9
+6801;2019;3/11/2019;Athletico-PR;CSA;15;15
+6809;2019;6/11/2019;Athletico-PR;Cruzeiro;16;17
+6820;2019;10/11/2019;Sao Paulo;Athletico-PR;14;25
+6829;2019;24/11/2019;Atletico-MG;Athletico-PR;11;17
+6841;2019;17/11/2019;Athletico-PR;Botafogo-RJ;23;12
+6849;2019;27/11/2019;Athletico-PR;Gremio;22;9
+6884;2019;8/12/2019;Avai;Athletico-PR;12;15
+7015;2020;4/10/2020;Atletico-MG;Vasco;24;10

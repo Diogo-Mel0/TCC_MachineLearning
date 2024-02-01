@@ -1,0 +1,335 @@
+ID;data;clube_mandante_x;clube_visitante_x;cartao_amarelo_mandante;cartao_amarelo_visitante;cartao_vermelho_mandante;cartao_vermelho_visitante
+4989;9/5/2015;Fluminense;Joinville;2;1;0;1
+4990;10/5/2015;Gremio;Ponte Preta;3;5;0;1
+4994;10/5/2015;Sport;Figueirense;1;3;0;1
+4995;10/5/2015;Avai;Santos;2;2;0;1
+5008;23/5/2015;Vasco;Internacional;6;3;0;1
+5010;24/5/2015;Palmeiras;Goias;6;5;1;1
+5017;30/5/2015;Ponte Preta;Chapecoense;4;2;0;1
+5024;31/5/2015;Internacional;Sao Paulo;3;1;0;1
+5025;31/5/2015;Flamengo;Fluminense;6;3;1;1
+5026;31/5/2015;Figueirense;Cruzeiro;3;6;0;1
+5028;3/6/2015;Vasco;Ponte Preta;2;3;2;0
+5043;7/6/2015;Internacional;Coritiba;4;5;1;0
+5048;13/6/2015;Coritiba;Flamengo;2;4;0;1
+5055;14/6/2015;Palmeiras;Fluminense;0;7;0;2
+5059;20/6/2015;Flamengo;Atletico-MG;0;1;0;1
+5060;20/6/2015;Santos;Corinthians;5;4;1;1
+5063;21/6/2015;Joinville;Goias;4;5;1;1
+5064;21/6/2015;Athletico-PR;Coritiba;2;5;0;2
+5076;28/6/2015;Internacional;Santos;3;3;0;1
+5085;2/7/2015;Figueirense;Goias;2;2;1;0
+5088;4/7/2015;Chapecoense;Vasco;1;2;0;2
+5090;5/7/2015;Avai;Sport;6;2;1;0
+5093;5/7/2015;Santos;Gremio;4;1;1;0
+5122;19/7/2015;Sport;Sao Paulo;1;2;0;2
+5139;1/8/2015;Fluminense;Gremio;3;2;0;1
+5151;9/8/2015;Sao Paulo;Corinthians;4;2;0;1
+5158;12/8/2015;Flamengo;Athletico-PR;2;4;0;1
+5159;12/8/2015;Santos;Vasco;3;5;0;1
+5162;12/8/2015;Internacional;Fluminense;6;4;0;2
+5168;15/8/2015;Athletico-PR;Santos;2;1;1;0
+5172;16/8/2015;Fluminense;Figueirense;1;2;0;1
+5177;22/8/2015;Goias;Vasco;3;3;0;2
+5195;30/8/2015;Cruzeiro;Santos;3;2;1;0
+5201;2/9/2015;Atletico-MG;Athletico-PR;5;4;1;0
+5208;5/9/2015;Vasco;Atletico-MG;3;2;1;0
+5209;5/9/2015;Athletico-PR;Joinville;4;3;1;3
+5212;6/9/2015;Gremio;Goias;3;4;0;1
+5215;6/9/2015;Fluminense;Flamengo;6;6;0;1
+5217;9/9/2015;Ponte Preta;Vasco;3;1;1;0
+5219;9/9/2015;Internacional;Palmeiras;5;3;1;1
+5228;12/9/2015;Palmeiras;Figueirense;4;4;0;1
+5231;13/9/2015;Cruzeiro;Atletico-MG;3;5;1;0
+5244;16/9/2015;Cruzeiro;Vasco;4;3;0;1
+5255;20/9/2015;Chapecoense;Cruzeiro;2;1;0;1
+5275;4/10/2015;Ponte Preta;Corinthians;2;4;1;0
+5288;17/10/2015;Joinville;Figueirense;2;3;1;0
+5293;18/10/2015;Sao Paulo;Vasco;2;1;1;0
+5296;18/10/2015;Sport;Atletico-MG;0;1;0;1
+5301;25/10/2015;Corinthians;Flamengo;3;2;0;1
+5313;1/11/2015;Gremio;Flamengo;0;1;0;1
+5315;1/11/2015;Vasco;Fluminense;2;5;0;1
+5333;19/11/2015;Chapecoense;Internacional;4;3;0;1
+5335;19/11/2015;Santos;Flamengo;2;2;0;1
+5336;19/11/2015;Vasco;Corinthians;2;3;1;0
+5338;22/11/2015;Joinville;Vasco;5;4;1;0
+5349;28/11/2015;Avai;Ponte Preta;1;2;0;1
+5367;14/5/2016;Palmeiras;Athletico-PR;1;4;0;1
+5370;14/5/2016;Coritiba;Cruzeiro;1;3;0;2
+5376;15/5/2016;Internacional;Chapecoense;3;4;0;1
+5382;22/5/2016;Vitoria;Corinthians;5;4;1;0
+5390;25/5/2016;America-MG;Vitoria;4;2;0;1
+5400;29/5/2016;Ponte Preta;Flamengo;2;2;0;1
+5409;1/6/2016;Santa Cruz;Sport;6;2;1;0
+5431;12/6/2016;Coritiba;Sport;5;4;1;1
+5433;12/6/2016;Atletico-MG;Cruzeiro;4;6;1;3
+5446;16/6/2016;Fluminense;Corinthians;2;1;0;1
+5447;18/6/2016;Palmeiras;Santa Cruz;1;4;0;1
+5453;19/6/2016;Flamengo;Sao Paulo;1;3;0;1
+5464;23/6/2016;Gremio;Vitoria;4;4;1;0
+5466;23/6/2016;Coritiba;Internacional;2;5;1;0
+5474;26/6/2016;Santos;Sao Paulo;2;3;0;1
+5478;29/6/2016;Vitoria;Sport;4;4;0;2
+5489;3/7/2016;Cruzeiro;Vitoria;3;3;0;1
+5497;9/7/2016;Chapecoense;Corinthians;1;1;1;0
+5520;24/7/2016;Ponte Preta;Internacional;3;3;0;1
+5521;24/7/2016;Gremio;Sao Paulo;0;3;0;1
+5527;30/7/2016;Figueirense;Vitoria;3;4;1;1
+5575;21/8/2016;Figueirense;Cruzeiro;4;5;1;0
+5587;7/9/2016;Santa Cruz;Chapecoense;3;3;1;0
+5596;8/9/2016;Internacional;Santos;4;4;0;1
+5597;10/9/2016;Vitoria;Flamengo;2;1;1;0
+5608;14/9/2016;Figueirense;America-MG;0;2;0;1
+5611;14/9/2016;Coritiba;Corinthians;3;1;1;0
+5612;14/9/2016;Palmeiras;Flamengo;2;1;0;1
+5617;17/9/2016;Corinthians;Palmeiras;2;4;1;0
+5618;18/9/2016;Flamengo;Figueirense;2;3;0;1
+5619;18/9/2016;Cruzeiro;Atletico-MG;1;2;1;0
+5628;24/9/2016;Sport;Santos;3;2;0;1
+5649;5/10/2016;Corinthians;Atletico-MG;0;2;0;1
+5654;9/10/2016;Flamengo;Santa Cruz;1;1;0;1
+5657;12/10/2016;Chapecoense;Sport;1;2;0;1
+5675;16/10/2016;Sport;Vitoria;1;4;0;1
+5679;23/10/2016;Flamengo;Corinthians;2;4;0;1
+5680;23/10/2016;Vitoria;Cruzeiro;2;3;0;1
+5684;23/10/2016;Atletico-MG;Figueirense;2;4;0;2
+5693;29/10/2016;Internacional;Santa Cruz;3;2;1;0
+5705;6/11/2016;Chapecoense;Figueirense;1;3;0;1
+5722;20/11/2016;Ponte Preta;Fluminense;3;3;0;1
+5725;20/11/2016;Santa Cruz;Atletico-MG;3;0;1;1
+5739;11/12/2016;Gremio;Botafogo-RJ;2;4;0;1
+5740;11/12/2016;Sao Paulo;Santa Cruz;2;1;1;0
+5743;11/12/2016;Athletico-PR;Flamengo;2;6;0;1
+5750;14/5/2017;Bahia;Athletico-PR;0;1;0;1
+5759;21/5/2017;Vasco;Bahia;4;2;0;1
+5760;21/5/2017;Athletico-PR;Gremio;2;4;0;1
+5773;28/5/2017;Sport;Gremio;4;1;1;0
+5775;29/5/2017;Chapecoense;Avai;2;1;1;1
+5804;11/6/2017;Athletico-PR;Santos;1;1;0;1
+5806;14/6/2017;Atletico-MG;Athletico-PR;2;5;0;1
+5832;22/6/2017;Corinthians;Bahia;3;3;1;1
+5843;25/6/2017;Bahia;Flamengo;2;3;1;0
+5847;1/7/2017;Atletico-GO;Santos;3;1;1;0
+5855;3/7/2017;Fluminense;Chapecoense;3;5;0;1
+5861;9/7/2017;Gremio;Avai;1;5;0;1
+5878;16/7/2017;Vasco;Santos;4;3;0;1
+5895;20/7/2017;Athletico-PR;Botafogo-RJ;3;5;0;1
+5912;30/7/2017;Gremio;Santos;4;5;1;0
+5920;2/8/2017;Santos;Flamengo;3;3;1;1
+5938;13/8/2017;Sao Paulo;Cruzeiro;5;4;1;2
+5940;13/8/2017;Atletico-MG;Flamengo;4;2;0;1
+5955;21/8/2017;Fluminense;Atletico-MG;1;2;0;0
+5978;17/9/2017;Avai;Atletico-MG;2;3;0;1
+6006;7/10/2017;Cruzeiro;Ponte Preta;5;1;0;1
+6010;15/10/2017;Atletico-GO;Palmeiras;1;2;1;0
+6020;11/10/2017;Avai;Vasco;5;3;1;1
+6022;12/10/2017;Vitoria;Sport;2;3;1;0
+6024;12/10/2017;Ponte Preta;Santos;3;2;1;0
+6028;18/10/2017;Atletico-MG;Chapecoense;2;3;1;0
+6072;8/11/2017;Vitoria;Palmeiras;4;1;1;0
+6081;12/11/2017;Gremio;Vitoria;0;2;0;1
+6083;12/11/2017;Cruzeiro;Fluminense;4;3;0;1
+6104;20/11/2017;Fluminense;Ponte Preta;2;2;0;1
+6114;26/11/2017;Bahia;Chapecoense;5;3;1;0
+6120;3/12/2017;Vitoria;Flamengo;3;3;2;0
+6144;22/4/2018;Gremio;Athletico-PR;3;3;0;1
+6154;30/4/2018;America-MG;Vitoria;2;2;1;0
+6155;27/9/2018;Santos;Vasco;1;3;0;1
+6164;6/5/2018;Sport;Bahia;2;1;0;1
+6176;19/5/2018;Atletico-MG;Cruzeiro;3;2;0;1
+6180;20/5/2018;Sao Paulo;Santos;4;2;1;0
+6187;26/5/2018;Palmeiras;Sport;3;3;0;1
+6191;27/5/2018;Bahia;Vasco;1;6;0;1
+6204;31/5/2018;Corinthians;America-MG;2;3;0;2
+6207;2/6/2018;Atletico-MG;Chapecoense;2;3;0;1
+6231;10/6/2018;Bahia;Botafogo-RJ;4;3;0;1
+6236;12/6/2018;Sao Paulo;Vitoria;4;3;1;1
+6250;18/7/2018;Flamengo;Sao Paulo;3;4;0;1
+6255;19/7/2018;Athletico-PR;Internacional;4;5;1;0
+6258;22/7/2018;Vasco;Gremio;5;6;1;0
+6261;22/7/2018;Bahia;Vitoria;3;5;0;1
+6299;22/8/2018;Palmeiras;Botafogo-RJ;2;5;0;1
+6316;18/8/2018;Santos;Sport;3;3;0;1
+6325;20/8/2018;Vasco;Ceara;1;1;0;1
+6327;25/8/2018;Corinthians;Parana;3;4;0;1
+6375;17/9/2018;Chapecoense;Internacional;4;3;0;1
+6384;24/9/2018;Chapecoense;Fluminense;3;3;1;0
+6390;30/9/2018;Atletico-MG;Sport;1;4;0;1
+6402;6/10/2018;Gremio;Bahia;2;4;0;1
+6411;14/10/2018;Internacional;Sao Paulo;0;4;0;1
+6438;3/11/2018;Palmeiras;Santos;3;5;0;1
+6446;10/11/2018;America-MG;Parana;3;1;1;1
+6447;10/11/2018;Corinthians;Sao Paulo;1;3;1;0
+6458;14/11/2018;Parana;Atletico-MG;4;3;2;0
+6460;14/11/2018;Palmeiras;Fluminense;6;5;0;1
+6461;14/11/2018;Cruzeiro;Corinthians;2;2;0;1
+6467;17/11/2018;Vitoria;Athletico-PR;3;3;1;0
+6468;17/11/2018;Atletico-MG;Bahia;3;3;1;0
+6471;18/11/2018;Sport;Flamengo;1;1;0;1
+6472;18/11/2018;Botafogo-RJ;Internacional;2;4;0;2
+6491;25/11/2018;Internacional;Fluminense;3;2;0;1
+6492;25/11/2018;America-MG;Bahia;2;2;0;1
+6496;1/12/2018;Flamengo;Athletico-PR;4;1;1;1
+6498;2/12/2018;Ceara;Vasco;3;2;1;0
+6509;27/4/2019;Flamengo;Cruzeiro;4;5;0;1
+6533;5/5/2019;Cruzeiro;Goias;1;2;0;1
+6540;12/5/2019;Santos;Vasco;2;4;0;1
+6541;12/5/2019;Atletico-MG;Palmeiras;1;3;0;0
+6562;26/5/2019;Bahia;Fluminense;2;5;0;2
+6587;12/6/2019;Fortaleza;Cruzeiro;1;6;1;0
+6592;13/6/2019;Chapecoense;Fluminense;2;6;0;1
+6595;13/6/2019;Goias;Athletico-PR;1;3;0;0
+6606;20/7/2019;Vasco;Fluminense;4;3;0;2
+6607;20/7/2019;Bahia;Cruzeiro;2;1;1;0
+6609;20/7/2019;CSA;Athletico-PR;2;1;0;0
+6611;21/7/2019;Botafogo-RJ;Santos;2;2;1;1
+6613;21/7/2019;Corinthians;Flamengo;1;4;0;1
+6617;27/7/2019;Cruzeiro;Athletico-PR;1;0;0;0
+6626;3/8/2019;Ceara;Fortaleza;3;1;0;1
+6639;10/8/2019;Atletico-MG;Fluminense;4;3;0;1
+6641;11/8/2019;Palmeiras;Bahia;7;4;1;1
+6642;11/8/2019;Avai;Cruzeiro;4;2;1;1
+6644;11/8/2019;Goias;Vasco;4;4;0;1
+6647;17/8/2019;Fortaleza;Internacional;2;2;1;0
+6649;17/8/2019;Athletico-PR;Atletico-MG;3;1;0;0
+6635;21/8/2019;Athletico-PR;Sao Paulo;3;3;0;0
+6657;24/8/2019;Gremio;Athletico-PR;3;1;0;0
+6666;31/8/2019;Sao Paulo;Gremio;1;1;1;0
+6672;1/9/2019;Fortaleza;Goias;3;2;0;1
+6681;7/9/2019;Goias;Palmeiras;6;2;0;1
+6684;8/9/2019;Botafogo-RJ;Atletico-MG;4;3;0;1
+6685;8/9/2019;CSA;Chapecoense;3;2;0;2
+6690;15/9/2019;Athletico-PR;Avai;1;0;0;0
+6703;22/9/2019;Vasco;Athletico-PR;3;3;0;1
+6711;26/9/2019;Fluminense;Santos;2;4;2;1
+6718;29/9/2019;Santos;CSA;1;2;1;0
+6721;29/9/2019;Athletico-PR;Chapecoense;0;1;0;0
+6743;10/10/2019;Corinthians;Athletico-PR;2;2;0;0
+6750;13/10/2019;Athletico-PR;Flamengo;2;6;0;0
+6752;13/10/2019;Vasco;Fortaleza;2;5;0;1
+6756;16/10/2019;CSA;Atletico-MG;3;3;0;1
+6761;16/10/2019;Goias;Corinthians;3;4;2;0
+6765;17/10/2019;Fluminense;Athletico-PR;0;1;0;0
+6766;19/10/2019;Fortaleza;Gremio;4;2;1;1
+6775;21/10/2019;Botafogo-RJ;CSA;2;2;0;1
+6780;26/10/2019;Cruzeiro;Fortaleza;3;1;0;0
+6781;27/10/2019;Athletico-PR;Goias;1;1;0;0
+6796;2/11/2019;Fortaleza;Atletico-MG;4;3;1;1
+6801;3/11/2019;Athletico-PR;CSA;4;4;0;0
+6804;3/11/2019;Cruzeiro;Bahia;3;0;1;0
+6808;6/11/2019;Avai;Santos;5;2;1;1
+6809;6/11/2019;Athletico-PR;Cruzeiro;3;1;0;1
+6814;7/11/2019;Botafogo-RJ;Flamengo;6;3;1;0
+6820;10/11/2019;Sao Paulo;Athletico-PR;2;2;0;0
+6824;10/11/2019;CSA;Vasco;2;2;1;0
+6825;11/11/2019;Botafogo-RJ;Avai;4;3;0;1
+6838;17/11/2019;Gremio;Flamengo;1;3;0;1
+6841;17/11/2019;Athletico-PR;Botafogo-RJ;4;1;0;0
+6829;24/11/2019;Atletico-MG;Athletico-PR;3;2;0;0
+6849;27/11/2019;Athletico-PR;Gremio;3;4;0;1
+6853;28/11/2019;Fortaleza;Santos;4;9;1;2
+6857;30/11/2019;Ceara;Athletico-PR;8;2;1;1
+6861;1/12/2019;CSA;Bahia;3;4;0;1
+6866;4/12/2019;Athletico-PR;Santos;3;5;0;2
+6867;4/12/2019;Ceara;Corinthians;3;4;1;0
+6869;4/12/2019;Chapecoense;CSA;1;2;0;1
+6870;4/12/2019;Fluminense;Fortaleza;2;1;1;1
+6872;5/12/2019;Gremio;Cruzeiro;0;4;0;1
+6874;5/12/2019;Bahia;Vasco;3;2;1;1
+6879;8/12/2019;CSA;Sao Paulo;1;3;0;1
+6884;8/12/2019;Avai;Athletico-PR;2;1;0;0
+6907;15/8/2020;Coritiba;Flamengo;5;3;1;0
+6913;16/8/2020;Atletico-GO;Sport;1;2;1;0
+6931;23/8/2020;Palmeiras;Santos;6;3;0;1
+6957;2/9/2020;Fluminense;Atletico-GO;3;1;1;0
+6968;5/9/2020;Ceara;Santos;4;4;4;2
+6973;6/9/2020;Atletico-GO;Gremio;1;3;0;1
+6978;9/9/2020;Goias;Coritiba;5;3;1;1
+6983;10/9/2020;Corinthians;Palmeiras;3;2;2;0
+6984;10/9/2020;Bahia;Gremio;1;3;1;1
+6986;12/9/2020;Athletico-PR;Coritiba;4;1;0;1
+6994;13/9/2020;Palmeiras;Sport;2;3;1;1
+7006;3/10/2020;Gremio;Internacional;1;2;1;1
+7013;4/10/2020;Goias;Santos;4;5;1;1
+7015;4/10/2020;Atletico-MG;Vasco;3;3;0;1
+7018;7/10/2020;Bahia;Vasco;5;3;0;1
+7023;7/10/2020;Fortaleza;Atletico-MG;5;3;2;0
+7031;11/10/2020;Santos;Gremio;2;3;0;1
+7032;11/10/2020;Sport;Botafogo-RJ;4;3;0;1
+7043;16/10/2020;Goias;Bahia;5;4;0;3
+7066;31/10/2020;Botafogo-RJ;Ceara;4;6;1;1
+7077;7/11/2020;Sao Paulo;Goias;2;3;0;1
+7104;22/11/2020;Corinthians;Gremio;2;1;2;0
+7112;28/11/2020;Atletico-GO;Internacional;1;3;0;1
+7119;5/12/2020;Fluminense;Athletico-PR;4;3;0;1
+7136;16/12/2020;Sao Paulo;Atletico-MG;2;3;0;1
+7138;19/12/2020;Sport;Gremio;3;2;1;1
+7200;24/1/2021;Ceara;Palmeiras;3;5;1;0
+7201;24/1/2021;Atletico-GO;Fortaleza;2;2;0;1
+7216;3/2/2021;Gremio;Santos;5;2;0;1
+7221;4/2/2021;Fortaleza;Coritiba;2;5;0;2
+7243;14/2/2021;Gremio;Sao Paulo;5;5;1;0
+7247;20/2/2021;Fortaleza;Bahia;3;4;1;0
+7261;25/2/2021;Ceara;Botafogo-RJ;3;0;1;0
+7285;23/11/2021;Gremio;Flamengo;3;2;2;0
+7320;24/6/2021;America-MG;Juventude;2;2;1;0
+7331;27/6/2021;Santos;Atletico-MG;4;3;0;1
+7337;30/6/2021;Fortaleza;Chapecoense;4;5;1;0
+7343;1/7/2021;Bragantino;Ceara;1;3;0;1
+7352;4/7/2021;Ceara;Juventude;2;2;0;1
+7373;11/7/2021;Cuiaba;Ceara;2;2;1;0
+7397;31/7/2021;Internacional;Cuiaba;2;3;1;0
+7400;1/8/2021;Atletico-MG;Athletico-PR;3;5;1;0
+7408;7/8/2021;Palmeiras;Fortaleza;6;3;1;1
+7414;8/8/2021;Flamengo;Internacional;2;2;1;0
+7417;14/8/2021;Atletico-MG;Palmeiras;2;2;0;3
+7436;28/8/2021;Sport;Chapecoense;1;1;1;0
+7448;5/9/2021;Athletico-PR;Sport;2;1;0;1
+7457;11/9/2021;Juventude;Cuiaba;3;5;0;1
+7476;25/9/2021;Ceara;Chapecoense;0;4;0;1
+7495;27/10/2021;Bahia;Ceara;5;2;0;1
+7496;5/10/2021;Corinthians;Bahia;0;1;0;1
+7514;10/10/2021;Santos;Gremio;4;6;0;1
+7516;12/10/2021;Bragantino;Atletico-GO;2;4;1;0
+7575;11/11/2021;Flamengo;Bahia;0;2;1;2
+7592;14/11/2021;Fluminense;Palmeiras;5;6;1;2
+7584;8/11/2021;Chapecoense;Flamengo;3;3;1;1
+7610;29/11/2021;Atletico-GO;Bahia;6;3;0;1
+7614;3/12/2021;Athletico-PR;Cuiaba;4;7;0;2
+7623;30/11/2021;Cuiaba;Palmeiras;4;2;0;1
+7648;9/4/2022;Palmeiras;Ceara;5;9;0;1
+7673;1/5/2022;Coritiba;Fluminense;0;4;0;1
+7682;24/4/2022;Juventude;Cuiaba;2;4;1;0
+7686;7/5/2022;Atletico-MG;America-MG;4;4;0;1
+7690;8/5/2022;Atletico-GO;Goias;3;4;0;1
+7701;21/5/2022;Cuiaba;Internacional;2;8;3;0
+7712;15/5/2022;Coritiba;America-MG;2;5;0;1
+7713;15/5/2022;Botafogo-RJ;Fortaleza;3;2;0;1
+7717;28/5/2022;Sao Paulo;Ceara;3;6;1;0
+7739;8/6/2022;Atletico-GO;Avai;1;4;0;1
+7755;13/6/2022;Botafogo-RJ;Avai;4;5;0;1
+7769;19/6/2022;Coritiba;Athletico-PR;5;6;2;0
+7771;19/6/2022;Internacional;Botafogo-RJ;5;6;0;1
+7783;26/6/2022;Goias;Cuiaba;3;4;0;1
+7804;10/7/2022;Cuiaba;Botafogo-RJ;1;2;1;2
+7835;25/7/2022;Coritiba;Cuiaba;5;4;1;0
+7856;13/8/2022;Goias;Avai;1;2;1;0
+7858;13/8/2022;Cuiaba;Juventude;5;5;0;1
+7859;13/8/2022;Botafogo-RJ;Atletico-GO;1;3;1;0
+7890;4/9/2022;Flamengo;Ceara;4;6;1;1
+7894;4/9/2022;Cuiaba;Sao Paulo;4;2;1;2
+7901;11/9/2022;Avai;Athletico-PR;3;4;0;1
+7909;18/9/2022;Flamengo;Fluminense;1;5;2;3
+7914;18/9/2022;Athletico-PR;Cuiaba;3;2;0;1
+7926;1/10/2022;Atletico-MG;Fluminense;2;3;0;1
+7934;3/10/2022;Botafogo-RJ;Palmeiras;4;3;0;1
+7938;5/10/2022;Ceara;Goias;4;4;1;0
+7957;15/10/2022;America-MG;Fortaleza;1;3;0;1
+7958;16/10/2022;Ceara;Cuiaba;4;5;0;1
+7968;22/10/2022;Santos;Corinthians;2;4;1;1
+7986;31/10/2022;Ceara;Fluminense;2;2;1;0
+7997;5/11/2022;Fluminense;Sao Paulo;1;1;0;1
+8002;6/11/2022;Fortaleza;Atletico-GO;2;5;0;1
+8008;9/11/2022;Fluminense;Goias;4;2;0;2
+8021;13/11/2022;Cuiaba;Coritiba;1;4;0;1

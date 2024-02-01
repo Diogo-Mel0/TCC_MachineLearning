@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,tipo,modelo,acuracia,precisao_teste,precisao_geral,recall_teste,recall_geral
+0,0.0,0.0,Mandantes,Regressão Logística,0.6103,0.5646,0.5929,0.5384,0.525
+1,1.0,,Mandantes,SVC,0.6037,0.5396,0.6832,0.5081,0.5439
+2,,,Mandantes,Redes Neurais,0.6158,0.58,0.6544,0.5456,0.5796
